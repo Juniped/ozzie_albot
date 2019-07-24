@@ -1,0 +1,23 @@
+{
+  "name": "ozzie_albot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Juniped/ozzie_albot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Juniped/ozzie_albot/issues"
+  },
+  "homepage": "https://github.com/Juniped/ozzie_albot#readme",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  }
+}
